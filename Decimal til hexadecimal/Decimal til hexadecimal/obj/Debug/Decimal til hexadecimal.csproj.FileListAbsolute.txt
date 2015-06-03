@@ -1,0 +1,6 @@
+c:\users\kristofferm\documents\visual studio 2013\Projects\Decimal til hexadecimal\Decimal til hexadecimal\bin\Debug\Decimal til hexadecimal.exe.config
+c:\users\kristofferm\documents\visual studio 2013\Projects\Decimal til hexadecimal\Decimal til hexadecimal\bin\Debug\Decimal til hexadecimal.exe
+c:\users\kristofferm\documents\visual studio 2013\Projects\Decimal til hexadecimal\Decimal til hexadecimal\bin\Debug\Decimal til hexadecimal.pdb
+c:\users\kristofferm\documents\visual studio 2013\Projects\Decimal til hexadecimal\Decimal til hexadecimal\obj\Debug\Decimal til hexadecimal.csprojResolveAssemblyReference.cache
+c:\users\kristofferm\documents\visual studio 2013\Projects\Decimal til hexadecimal\Decimal til hexadecimal\obj\Debug\Decimal til hexadecimal.exe
+c:\users\kristofferm\documents\visual studio 2013\Projects\Decimal til hexadecimal\Decimal til hexadecimal\obj\Debug\Decimal til hexadecimal.pdb
