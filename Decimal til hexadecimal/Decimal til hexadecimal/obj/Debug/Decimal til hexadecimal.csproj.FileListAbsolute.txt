@@ -7,3 +7,6 @@ c:\users\kristofferm\documents\visual studio 2013\Projects\Decimal til hexadecim
 C:\Users\Guttatus\Documents\GitHub\eksamensstuff\Decimal til hexadecimal\Decimal til hexadecimal\bin\Debug\Decimal til hexadecimal.exe.config
 C:\Users\Guttatus\Documents\GitHub\eksamensstuff\Decimal til hexadecimal\Decimal til hexadecimal\obj\Debug\Decimal til hexadecimal.exe
 C:\Users\Guttatus\Documents\GitHub\eksamensstuff\Decimal til hexadecimal\Decimal til hexadecimal\obj\Debug\Decimal til hexadecimal.pdb
+C:\Users\KristofferM\Documents\GitHub\eksamensstuff\Decimal til hexadecimal\Decimal til hexadecimal\bin\Debug\Decimal til hexadecimal.exe.config
+C:\Users\KristofferM\Documents\GitHub\eksamensstuff\Decimal til hexadecimal\Decimal til hexadecimal\obj\Debug\Decimal til hexadecimal.exe
+C:\Users\KristofferM\Documents\GitHub\eksamensstuff\Decimal til hexadecimal\Decimal til hexadecimal\obj\Debug\Decimal til hexadecimal.pdb
