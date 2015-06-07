@@ -1,0 +1,5 @@
+
+ LEA EAX, [ EAX + EBX + 1234567 ] calculates the sum of EAX,
+LEA EAX, [ EBX + ECX ] calculates EBX + ECX without overriding either with the result
+if you use it like LEA EAX, [ EBX + N * EBX ] (N can be 1,2,4,8).
+Other usecase is handy in loops: the difference between LEA EAX, [ EAX + 1 ] and INC EAX is that the latter changes EFLAGS but the former does not; this preserves CMP state –
