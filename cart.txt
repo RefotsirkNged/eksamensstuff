@@ -3,7 +3,8 @@ Every byte has a unique number associated with it, called the bytes address, and
 
 Bitwise and or xor and so on should be calculated via the calculator, if it is logical and/or/xor or something, it is either true or false, aka 1/0.
 Difference between a logical shit and arithmetic shift page 55.
-%x
+%x printer i hex
+praktisk del er nok omkring adresser eller hex
 
 Assembly code 
 
