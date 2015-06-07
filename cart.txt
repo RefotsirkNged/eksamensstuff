@@ -1,0 +1,28 @@
+Smallest addressable unit of memory is a byte, and a byte consists of eight bits.
+Every byte has a unique number associated with it, called the bytes address, and the set of all the possible addresses in a computer, is known as the virtual address space.To the computer, the virtual address space appears as a gigantic byte array.
+
+Bitwise and or xor and so on should be calculated via the calculator, if it is logical and/or/xor or something, it is either true or false, aka 1/0.
+Difference between a logical shit and arithmetic shift page 55.
+
+
+Assembly code 
+
+
+
+Y86 processor architecture
+Der er skemaer over hvilke stages/fetch/encode/decode whatever theyre called different instructions go through i bogen. 300 something
+Brug evt simulatoren i den virtuelle maskine til at se de forskellig stages der bliver brugt? 
+Note about what should be registered where on page 338, aka the rA, rB and so on
+The first two boxes of numbers on the page is the initial byte. The next two specifies what registers a given input(aka %esp) should be encoded (aka in rA or rB).
+Figure 4.4 on pg 340 specifies the program register identifiers, so f.eks. %edx has specifier 2. put the source and dest registers identifiers together for the specifier byte.
+
+From 338 and forward is about the y86 architecture.
+Pg 364 about the staging of the architecture.
+
+
+Caching:
+Oversæt adressen til binær.
+For en 8 bit adresse, aka ligesom i eksamensstestsættet, slå op i omars løsning for at se hvordan formatet er.
+Det er ikke så kompliceret som det ser ud, kig i omars løsning for fremgangsmåden, og på s. 598
+Kig også efter opdelingen/rækkefølgen af en cache i omar, aka tag then set then block offset.
+1100100
